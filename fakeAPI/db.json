@@ -1,0 +1,37 @@
+{
+  "profile": {
+    "name": "arta"
+  },
+  "users": [
+    {
+      "name": "Arta",
+      "email": "arta@gmail.com",
+      "bidang": "BE Dev",
+      "id": 2
+    },
+    {
+      "name": "syifa putri",
+      "email": "syifa@gmail.com",
+      "bidang": "Database Engineer",
+      "id": 3
+    },
+    {
+      "name": "Syifa Putri",
+      "email": "ciipayy@gmail.com",
+      "bidang": "Fullstack Dev",
+      "id": 4
+    },
+    {
+      "name": "Rizqi Arta",
+      "email": "rizqiarta@gmail.com",
+      "bidang": "FE Dev",
+      "id": 5
+    },
+    {
+      "name": "Ibnoe",
+      "email": "ibnoe@gmail.com",
+      "bidang": "UI/UX",
+      "id": 6
+    }
+  ]
+}
